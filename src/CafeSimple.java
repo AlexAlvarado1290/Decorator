@@ -4,6 +4,7 @@ public class CafeSimple implements Bebida{
         return "Cafe Simple";
     }
 
+
     @Override
     public double getCosto() {
         return 10.0;
